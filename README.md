@@ -19,9 +19,18 @@
 📈 **GitHub Stats**:  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhashankaraditya&show_icons=true&theme=radical)
 
-📊 **Top Languages**:  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhashankaraditya&layout=compact&theme=radical)
+Languages and Tools
+<p align="left"> <!-- Programming Languages --> <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/></a> <a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/></a> <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/></a> <!-- Frontend Tools -->
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a> <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/></a> <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/></a>
 
-🌐 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/aditya-shankar-jha/) | [GitHub](https://github.com/jhashankaraditya)  
+<!-- Backend Tools -->
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/></a> <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js"/></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/></a>
+
+<!-- Cloud and Tools -->
+<a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/></a> <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a> <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/></a> <a href="https://www.postman.com/" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman"/></a> <a href="https://www.netlify.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/netlify.png" alt="Netlify"/></a>
+
+</p>
+Connect with me
+<p align="left"> <a href="https://www.linkedin.com/in/aditya-shankar-jha/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a> <a href="https://leetcode.com/u/jha_01/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="48" height="48"/></a> <a href="https://www.codechef.com/users/jha_01" target="_blank"><img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef"/></a> <a href="https://www.geeksforgeeks.org/user/adityajha2021/" target="_blank"><img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" alt="GeeksforGeeks"/></a> </p>
 
 ---
