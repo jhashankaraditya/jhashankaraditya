@@ -1,5 +1,8 @@
 # Hi there, I'm [Aditya Shankar Jha] 👋
 
+![image](https://github.com/user-attachments/assets/b1a32c17-beb1-445e-a177-2f7c5ea8e245)
+
+
 🔭 I am passionate about building modern, scalable web applications.  
 🌱 I am currently enhancing my skills in the **MERN stack** (MongoDB, Express.js, React, Node.js).  
 👯 I’m looking to collaborate on **web development projects** and **open-source contributions**.  
